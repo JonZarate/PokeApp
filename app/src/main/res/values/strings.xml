@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">PokeApp</string>
+    <string name="image_batura_logo">Batura logo</string>
+    <string name="text_initializing">Initializing...</string>
+    <string name="text_errors_found">errors found</string>
+    <string name="text_error_network">No network, the App is limited</string>
+    <string name="text_error_database">Database could not be initialized</string>
+    <string name="text_error_unknown">An unknown error occurred</string>
+    <string name="text_initializing_retrofit">Initializing Retrofit</string>
+    <string name="text_initializing_database">Initializing database</string>
+    <string name="tab_explore">Explore</string>
+    <string name="tab_favourites">Favourites</string>
+    <string name="tab_author">Author</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_author_name">Jon</string>
+    <string name="text_author_surnames">Zarate Andres</string>
+    <string name="text_author_tlf">+34 622 51 48 00</string>
+    <string name="text_author_mail">jon.zarate@hotmail.com</string>
+    <string name="text_explore_pokemon_name">pokemon name</string>
+    <string name="text_explore_pokemon_id">pokemon id</string>
+    <string name="text_explore_pokemon_height">pokemon height</string>
+    <string name="text_explore_pokemon_weight">pokemon weight</string>
+    <string name="text_explore_pokemon_empty">-</string>
+    <string name="text_explore_search">Search</string>
+    <string name="text_explore_pokemon_add">Add Pokemon</string>
+    <string name="text_error_parse">Can\'t parse value</string>
+    <string name="text_downloading_pokemon_data">Downloading Pokemon data</string>
+    <string name="text_downloading_pokemon_image">Downloading Pokemon image</string>
+    <string name="text_explore_save_image">Saving Pokemon image on local directory</string>
+    <string name="text_explore_save_pokemon">Saving Pokemon on database</string>
+    <string name="text_explore_save_ok">Saved successfully</string>
+    <string name="text_explore_save_error_storage">Error saving image in local storage</string>
+    <string name="text_explore_save_error_database">Error saving Pokemon in database. Already inserted?</string>
+    <string name="text_favourites_refresh">Refresh Pokemons</string>
+    <string name="text_favourites_loading">Loading Pokemons from the database</string>
+    <string name="text_favourites_listing">Creating the Pokemon list</string>
+</resources>
